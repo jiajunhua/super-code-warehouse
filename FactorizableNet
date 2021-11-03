@@ -1,0 +1,4 @@
+https://github.com/yikang-li/FactorizableNet
+
+This is pytorch implementation of our ECCV-2018 paper: Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation. 
+This project is based on our previous work: Multi-level Scene Description Network.
