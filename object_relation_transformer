@@ -1,0 +1,8 @@
+https://github.com/yahoo/object_relation_transformer
+
+
+Image Captioning: Transforming Objects into Words
+
+This is a PyTorch implementation of the Object Relation Transformer published in NeurIPS 2019. 
+You can find the paper here. 
+This repository is largely based on code from Ruotian Luo's Self-critical Sequence Training for Image Captioning GitHub repo, which can be found here.
