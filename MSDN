@@ -1,0 +1,10 @@
+https://github.com/yikang-li/MSDN
+
+This is our implementation of Multi-level Scene Description Network in Scene Graph Generation from Objects, Phrases and Region Captions. The project is based on PyTorch version of faster R-CNN. (Update: model links have been updated. Sorry for the inconvenience.)
+
+We have released our newly proposed scene graph generation model in our ECCV-2018 paper:
+
+Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation.
+
+Check the github repo Factorizable Net if you are interested.
+https://github.com/yikang-li/FactorizableNet
